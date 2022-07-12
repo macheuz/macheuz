@@ -4,7 +4,7 @@ Hi, welcome to my github <img width ="3%" src="https://camo.githubusercontent.co
 <ul>
         <li>Back-end developer 💻</li>
         <li>Studying systems development 📖</li>
-        <li>I'm currently working as a data analysis intern 📈</li>
+        <li>I'm currently working as a Business Inteligence intern 📈</li>
         <li>Juiz de Fora, Brazil 🇧🇷</li>
 </ul>
 
