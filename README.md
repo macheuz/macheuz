@@ -8,8 +8,7 @@ Hi, welcome to my github <img width ="3%" src="https://camo.githubusercontent.co
         <li>Juiz de Fora, Brazil 🇧🇷</li>
 </ul>
 
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macheuz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+  
                                                                                                                       
 
 
