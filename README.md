@@ -2,9 +2,8 @@ Hi, welcome to my github <img width ="3%" src="https://camo.githubusercontent.co
 
 
 <ul>
-        <li>Data analyst 💻</li>
-        <li>Studying systems development 📖</li>
-        <li>I currently work as Business Intelligence at a Startup and as a Data Analyst at Embrapa 📈</li>
+        <li>Data engineer 💻</li>
+        <li>I currently work as a Data Engineer at Embrapa 📈</li>
         <li>Juiz de Fora, Brazil 🇧🇷</li>
 </ul>
 
