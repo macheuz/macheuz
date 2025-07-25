@@ -112,7 +112,7 @@ Sou fascinado em transformar desafios complexos em negócios e soluções de sof
 -----
 
 
-### ✨ Projetos Recentes
+### ✨ Projetos
 
 #### Projeto 1: Calculadora de Parentesco Genômico de Alta Performance
 
