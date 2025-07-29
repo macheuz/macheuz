@@ -102,8 +102,8 @@ Sou fascinado em transformar desafios complexos em negócios e soluções de sof
 
 **Blockchain Specialist - DIO**
 
-  * **Curso completo de Python**
-    * *(abr de 2022 - set de 2022)* 
+  * **Curso completo de blockchain**
+    * *(abr de 2023 - set de 2023)* 
 
 **Python - Danki Code**
 
