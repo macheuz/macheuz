@@ -25,7 +25,7 @@ Sou fascinado em transformar desafios complexos em negócios e soluções de sof
 ### 💼 Experiência Profissional
 
 **Engenheiro de Dados** - **EMBRAPA/ ABCGIL**
-<br>*(fev de 2023 - o momento)*
+<br>*(fev de 2023 - 2025)*
 
 * Implementação e modelagem de banco de dados Postgres
 
